@@ -1,4 +1,4 @@
-# frontend-hw31
+# frontend-submissions
 
 this is the modification from develop branch
 
